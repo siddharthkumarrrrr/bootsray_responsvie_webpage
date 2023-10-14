@@ -1,0 +1,105 @@
+*{
+    color: white;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#underline-container {
+    border-bottom: 2px solid white;
+    background-color: #000000;
+}
+.image{
+    height: 70px;
+    width: 90px;
+}
+#form{
+   background : url("images/vecteezy_abstract-red-speed-neon-light-effect-on-black-background_8440613.jpg") no-repeat;
+}
+#card{
+ margin:25px 0px;
+}
+
+#box1{
+    width: 50%;
+    margin:25px 0px;
+}
+#studytable{
+    padding:50px;
+}
+
+#box2{
+    height: 500px;
+    width: 300px;
+    align-items: center;
+}
+.image2{
+ width: 200px;
+}
+
+#advert{
+    background-color: #1E1E1E;
+
+}
+
+.img-ad{
+    height: 5em;
+    width:3em;
+}
+
+.imgr3{
+    height: 90px;
+}
+.imgr4{
+    height: 90px;
+}
+.boy1{
+    height:auto;
+}
+.icon-text {
+    display: flex;
+    align-items: center;
+  }
+
+  .icon-text .fa {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+.footer{
+    background-color: #03161D;
+}
+
+#menu{
+     
+    list-style:none;
+    margin:0;
+    padding:0;
+
+}
+#menu li{
+    display:block;
+  padding: 2px;
+}
+#menu li a{
+    text-decoration: none;
+    color:white;
+    padding :15px 10px;
+    display: block;
+
+}
+#menu li a:hover{
+   background-color:blue;
+    color:white;
+    padding :15px 10px;
+    display: block;}
